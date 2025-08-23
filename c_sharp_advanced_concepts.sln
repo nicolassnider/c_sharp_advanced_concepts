@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuredParadigm", "StructuredParadigm\StructuredParadigm.csproj", "{703E95DE-A220-46D4-B037-1481AE07516A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedProgramming", "ObjectOrientedProgramming\ObjectOrientedProgramming.csproj", "{8BCE82A1-9138-481B-BA37-82E3A037FC25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{703E95DE-A220-46D4-B037-1481AE07516A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{703E95DE-A220-46D4-B037-1481AE07516A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{703E95DE-A220-46D4-B037-1481AE07516A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCE82A1-9138-481B-BA37-82E3A037FC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCE82A1-9138-481B-BA37-82E3A037FC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCE82A1-9138-481B-BA37-82E3A037FC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCE82A1-9138-481B-BA37-82E3A037FC25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
