@@ -1,4 +1,6 @@
-﻿namespace AdvancedGenerics
+﻿using AdvancedGenerics.Interfaces;
+
+namespace AdvancedGenerics
 {
     public class Beer : Drink, IInfo
     {

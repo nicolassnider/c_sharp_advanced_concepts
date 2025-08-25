@@ -1,4 +1,4 @@
-﻿namespace AdvancedGenerics
+﻿namespace AdvancedGenerics.Interfaces
 {
     public interface IDrinkCreator<out T>
     {
