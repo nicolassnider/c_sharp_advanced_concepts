@@ -28,6 +28,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reference", "Reference\Refe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Records", "Records\Records.csproj", "{2277BEA7-410D-40AC-AABC-651D2B3AC747}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9.AdvancedFunctionalProgramming", "9.AdvancedFunctionalProgramming", "{99792EC7-FEB6-420B-BFF6-FADA943FCF3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedFunctionalProgramming", "AdvancedFunctionalProgramming\AdvancedFunctionalProgramming.csproj", "{00A70C26-6100-46D0-8F82-37CAF0F9BDF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +66,10 @@ Global
 		{2277BEA7-410D-40AC-AABC-651D2B3AC747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2277BEA7-410D-40AC-AABC-651D2B3AC747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2277BEA7-410D-40AC-AABC-651D2B3AC747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A70C26-6100-46D0-8F82-37CAF0F9BDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A70C26-6100-46D0-8F82-37CAF0F9BDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A70C26-6100-46D0-8F82-37CAF0F9BDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A70C26-6100-46D0-8F82-37CAF0F9BDF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +82,7 @@ Global
 		{D831EF80-B7F6-4EFE-BBBE-D53D206DCB93} = {816E6DCD-0796-46DD-8E40-435D7481F2A6}
 		{2BC537EF-500B-48D2-B2F1-BEFF95483BD1} = {319B4609-D0AB-4676-842C-4D1AAF6AE333}
 		{2277BEA7-410D-40AC-AABC-651D2B3AC747} = {319B4609-D0AB-4676-842C-4D1AAF6AE333}
+		{00A70C26-6100-46D0-8F82-37CAF0F9BDF5} = {99792EC7-FEB6-420B-BFF6-FADA943FCF3C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4B02BD70-79CF-4671-9606-219720148E46}
